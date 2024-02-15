@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: Baganator Battle Pet Breeds
+## Version: @project-version@
+## Author: plusmouse
+## RequiredDeps: Baganator
+## IconTexture: Interface\AddOns\Baganator_BattlePetBreeds\Assets\logo.tga
+
+Libs\LibStub.lua
+Libs\LibPetBreedInfo-1.0.lua
+
+Main.lua
